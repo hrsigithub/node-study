@@ -11,3 +11,6 @@ npm -v
 npm init -y
 npm i express nodemon
 
+via Typescript
+
+npm i --dev typescript @types/node ts-node @types/express
